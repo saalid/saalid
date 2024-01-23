@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on beauty-salon
+- 🔭 I’m currently working on [beauty-salon](https://github.com/saalid/beauty-salon)
 
 <!--
 **saalid/saalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
